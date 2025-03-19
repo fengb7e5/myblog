@@ -3,9 +3,13 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://fengb7e5.xyz"
+baseURL = "http://www.fengb7e5.xyz"
 defaultContentLanguage = "en"
 
+[params]
+  beian = "湘ICP备2025107462号-1"  # 必须与备案系统登记的完全一致
+[params.footer]
+  showBeian = true  # 显示备案信息
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
