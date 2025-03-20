@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "http://www.fengb7e5.xyz"
+baseURL = "https://www.fengb7e5.xyz"
 defaultContentLanguage = "en"
 
 [params]
